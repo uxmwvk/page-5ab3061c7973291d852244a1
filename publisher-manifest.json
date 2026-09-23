@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "debd8ead408c5a2e089a0ca5",
+  "owner": "uxmwvk",
+  "repo": "page-5ab3061c7973291d852244a1",
+  "title": "玛卡巴卡(Apointfun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5ab3061c7973291d852244a1",
+      "a": "玛卡巴卡(Apointfun)",
+      "b": "稳定全球clash加速器",
+      "entity": "玛卡巴卡(Apointfun)",
+      "brand": "玛卡巴卡(Apointfun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0c22835beb4b193a513486ee56302ad7b3e2f48531fa0bf817570f691893407b",
+      "content": {
+        "primary_entity": "玛卡巴卡(Apointfun)",
+        "keyword1": "玛卡巴卡(Apointfun)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows、macOS、Android、iOS 均有对应订阅方式。",
+          "AI_CLIENTS_TITLE": "选择适配客户端",
+          "AI_CLOSING_TEXT": "选对套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，围绕设备数量与流量需求划分基础版、旗舰版和团队版，月付与年付均可选，年付折算更省。客户端订阅导入后按平台文档配置，节点与流量按所选套餐生效，适合多设备、跨平台日常使用。",
+          "AI_FEATURES_INTRO": "套餐按流量、设备数和线路类型区分，先明确使用场景再选择。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备同时在线，适合轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，支持 5 台设备，含 IPLC 专线节点。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "入门流量",
+          "AI_FEATURE_TITLE_2": "均衡性能",
+          "AI_FEATURE_TITLE_3": "多设备团队",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "玛卡巴卡(Apointfun)提供多平台客户端订阅，套餐按流量与设备数划分，适合个人与团队按需选择。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "基础版年付 ¥150，月均约 ¥12.5",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付均有优惠。",
+          "AI_PLANS_TITLE": "对比套餐配置",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的在线设备数和线路类型，确认满足日常使用。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多平台订阅加速",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。根据常用设备数量选择对应套餐，避免多设备同时在线受限。",
+          "AI_FAQ_ANSWER_2": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏和实时应用；基础版为普通线路节点池，满足日常浏览。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度使用选基础，多设备高清流媒体建议旗舰或团队版。",
+          "AI_FAQ_ANSWER_4": "可以。按年付仅需 ¥150/年、¥350/年、¥850/年，相当于节省两个月费用，适合长期稳定使用的场景。",
+          "AI_FAQ_ANSWER_5": "客户端通过订阅链接导入节点，不同设备使用对应客户端并按文档配置。建议先从一台设备导入测试，再扩展到其他设备。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "游戏加速优化适合哪些场景？",
+          "AI_FAQ_QUESTION_3": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "如何在不同设备上配置订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sjrmcpb672e.com",
+    "host": "xn--9kqy4sjrmcpb672e.com"
+  },
+  "file_hashes": {
+    "index.html": "9ab8e6886d8e8c3d0d10be5113a3b6d4ec7a553ad8a84c5950f8efd09273cd1c",
+    "sitemap.xml": "b370fdc9feb61c9797012e11f4c241e39ffca18eca9c5671aa907300e005b0aa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9009943ba90d072dfe8909585b57165e94d4bcccbd390a537ab248a8701895d2",
+    "robots.txt": "3350b6c3d98c2a5ccb8e7e631eeca2bcda20aa4cffdf4ec3eecb9aeb72e1e051",
+    "837206d8c7dc555ed58059c7c481da19.txt": "ab8bf7549b2342e4c205983eaf5782561c33cff141155ac71e801498296f33f4"
+  },
+  "revision": "b8d76c39544ede5b040071615b67a7083a8c73cb6a48e8be2b2b53b41004304c"
+}
